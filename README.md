@@ -24,8 +24,7 @@ This system enables distributed computing using blockchain-based trust, transpar
 
 ## Deployed Smart Contract Link
 
-https://stellar.expert/explorer/testnet/account/CBX6U74XVNBVXDLWU7APYQNQQ6CVTTTWDJAY5QNU4FKWTGUMEFJUS34A
-
+https://stellar.expert/explorer/testnet/contract/CBX6U74XVNBVXDLWU7APYQNQQ6CVTTTWDJAY5QNU4FKWTGUMEFJUS34A
 ## Future Improvements
 
 * Escrow-based payment system
