@@ -1,6 +1,5 @@
 # Compute Marketplace (Soroban Smart Contract)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab046251-20f6-43ee-b9ee-89216c1ef457" />
-# Compute Marketplace (Soroban Smart Contract)
 
 ## Project Description
 
